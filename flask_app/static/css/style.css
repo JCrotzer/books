@@ -1,0 +1,30 @@
+.new {
+    margin-top: 100px;
+    width: 250px;
+}
+
+.all_authors {
+    margin-top: 100px;
+    width: 200px;
+    height: 500px;
+}
+
+.favorites {
+    margin-top: 100px;
+}
+
+.table {
+    border: 1px solid black;
+}
+
+form {
+    margin-top: 100px;
+}
+
+.btn {
+    margin: 20px;
+}
+
+.add_books {
+    margin: 50px 100px;
+}
